@@ -42,6 +42,12 @@ const projects = [
     github: "https://github.com/dinesh-0725/layer.git",
   },
   {
+  title: "Vision Assistant",
+  description: "AI-powered vision assistant system for real-time object detection, recognition, and intelligent assistance using computer vision and deep learning concepts.",
+  tech: "Tech Used: Python, OpenCV, TensorFlow, Deep Learning, Computer Vision",
+  github: "https://github.com/dinesh-0725/vision-assistant.git",
+  },
+  {
     title: "Detection Management System",
     description: "Enterprise system for defect tracking and workflow in steel plant environments. Role-based dashboards for employees, mechanics, and admin.",
     tech: "Tech Used: Java Full Stack (JSP, Servlets, JDBC, Oracle)",
