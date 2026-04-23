@@ -19,7 +19,7 @@ const NAV_LINKS = [
 const educationData = [
   {
     title: "SSC - 10th Standard",
-    school: "Balaji High School (2018)",
+    school: "Balaji High School (2020)",
     description: "Scored 90% and built a strong foundation in mathematics and science, which sparked interest in computing and logic-based problem solving.",
   },
   {
